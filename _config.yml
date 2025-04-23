@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: My Protfolio # the website title (if blank, full name will be used instead)
+first_name: Paul
+middle_name: W.
+last_name: Tracy
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email or LinkedIn is probably the best way to reach me. If any of this is intresting to you I look forward to hearing from you!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  This is my portfilo where I showcase some of the projects that intrest me. This theme is based on the [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
