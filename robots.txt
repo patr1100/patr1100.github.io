@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://patr1100.github.io/sitemap.xml
